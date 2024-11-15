@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NipunJain-ZopSmart
+- 👋 Hi, I’m @NipunJain SDE-1 Intern at ZopSmart
 - 👀 I’m interested in Backend Development!
 - 🌱 I’m currently learning GoLang!
   
