@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NipunJain SDE-1 Intern at ZopSmart
 - 👀 I’m interested in Backend Development!
-- 🌱 I’m currently learning GoLang!
+- 🌱 I’m currently exploring GoLang!
   
 
 <!---
