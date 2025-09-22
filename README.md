@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nipun Jain SDE-1 at Zopping.
 - 👀 Working with the Backend Team!
-- 🌱 I’m currently working on Golang!
   
 
 <!---
